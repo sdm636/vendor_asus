@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),X00TD)
+ifeq ($(TARGET_DEVICE),X00T)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libantradio
